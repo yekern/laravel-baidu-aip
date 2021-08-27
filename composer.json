@@ -1,0 +1,23 @@
+{
+    "name": "yekern/laravel-baidu-aip-v2",
+    "description": "laravel baidu aip",
+    "autoload": {
+        "psr-4": {
+            "Yekern\\LaravelBaiduAipV2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "WangFeng",
+            "email": "yekern@163.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "\\Yekern\\LaravelBaiduAipV2\\BaiduAipServiceProvider"
+            ]
+        }
+    }
+}

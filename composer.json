@@ -1,6 +1,7 @@
 {
     "name": "yekern/laravel-baidu-aip-v2",
-    "description": "laravel baidu aip",
+    "description": "非官方的百度AiSDK Laravel版本",
+    "keywords": ["baiduaip","aip","baidu","人脸识别","人脸比对","百度", "百度人脸识别","Laravel 人脸识别","Laravel 人脸比对"],
     "autoload": {
         "psr-4": {
             "Yekern\\LaravelBaiduAipV2\\": "src/"
@@ -12,7 +13,9 @@
             "email": "yekern@163.com"
         }
     ],
-    "require": {},
+    "require": {
+
+    },
     "license": "MIT",
     "extra": {
         "laravel": {

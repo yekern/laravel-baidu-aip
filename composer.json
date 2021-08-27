@@ -13,6 +13,7 @@
         }
     ],
     "require": {},
+    "license": "MIT",
     "extra": {
         "laravel": {
             "providers": [
